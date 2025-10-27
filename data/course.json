@@ -23,7 +23,7 @@
   },
   "course_title": "MIT Governance Lab",
   "hide_download": true,
-  "course_description": "The [MIT Governance Lab](https://mitgovlab.org/) (MIT GOV/LAB) is an applied research group and ideas incubator that aims to improve democracy and governance by changing practice around corruption, government accountability, and citizen voice. Our model combines behavioral political science, experimental social science, design thinking, and evaluation to iterate on governance solutions that support people\u2019s ability to hold the government to account.\u00a0\n\nWe partner with in-country practitioners, including government, civil society, and social enterprises, at every stage of the research and learning process, from theory building to theory testing, to critical reflections and adaptations in real time, with the goal of contributing to a solid evidence base to strengthen the overall field of practice for participatory governance.\u00a0\n\nTo learn more about our work, check out our latest [updates](https://mitgovlab.org/news/), tools, guides, and other [resources](https://mitgovlab.org/resources/), as well as published [research](https://mitgovlab.org/research/), or be in touch [mitgovlab@mit.edu](mailto:mitgovlab@mit.edu).",
+  "course_description": "The {{% resource_link \"f7578586-26e6-4d29-a6fd-07e4830c9151\" \"MIT Governance Lab\" %}} (MIT GOV/LAB) is an applied research group and ideas incubator that aims to improve democracy and governance by changing practice around corruption, government accountability, and citizen voice. Our model combines behavioral political science, experimental social science, design thinking, and evaluation to iterate on governance solutions that support people\u2019s ability to hold the government to account.\u00a0\n\nWe partner with in-country practitioners, including government, civil society, and social enterprises, at every stage of the research and learning process, from theory building to theory testing, to critical reflections and adaptations in real time, with the goal of contributing to a solid evidence base to strengthen the overall field of practice for participatory governance.\u00a0\n\nTo learn more about our work, check out our latest {{% resource_link \"17b5ec88-2692-48b6-b994-51bdaf60c569\" \"updates\" %}}, tools, guides, and other {{% resource_link \"26d80263-b900-412b-aa1b-749ec760cdd9\" \"resources\" %}}, as well as published {{% resource_link \"f9ee67f5-e672-4ae1-8180-f9e2fef3bb6c\" \"research\" %}}, or be in touch [mitgovlab@mit.edu](mailto:mitgovlab@mit.edu).",
   "department_numbers": [
     "17"
   ],
@@ -33,7 +33,6 @@
     "content": "078f28a2-b7ad-40eb-b3d8-5aa21088922a",
     "website": "mit-governance-lab"
   },
-  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "2d554d62-070d-4319-b5a6-a79864181389",
   "site_short_id": "res.17-002-spring-2023",
